@@ -3,7 +3,7 @@ This is a program that will create and maintain a company
 management system to keep track of Employees inside the company. 
 Each Employee has Id, last name, first name, salary, birth date (another struct of 
 day, month, and year), the address, phone number, and email. 
-Your program should allow the user to execute the following commands:
+The program should allow the user to execute the following commands:
 
 1- LOAD (Read from file): This command reads in a file name and loads the 
 employee’s data from this file. The file is a text file that is comma delimited in 
