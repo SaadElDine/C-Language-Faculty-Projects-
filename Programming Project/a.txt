@@ -1,0 +1,9 @@
+1,Cook,Thomas,1050.50,01-10-1982,362 11th street brooklyn,01120887795,tcook@gmail.com
+2,Simpson,Bethany,2020.15,01-11-1982,11 greenway plaza houston tx,01255987895,bsimpson@gmail.com
+3,Simpson,Philipe,1500.00,10-10-1988,33 hudson street jersey city,01248488953,psimpson@gmail.com
+4,Graves,Steve,1200.00,01-12-1982,47 newbury st peabody ma,01204664644,sgraves@yahoo.com
+5,Graves,Daniel,4200.00,02-12-1982,48 washington ave chelsea ma,01235534564,dgraves@outlook.com
+6,Cook,Bethany,2340.20,03-10-1988,13 texas street jersey city,01000000000,bcook@hotmail.com
+7,Jason,Michael,3430.10,10-03-1988,21 Drydock Ave #410,01000050506,jmichael@icloud.com
+9,Brian,Mark,332.30,10-12-1990,160 W Addison St.,01565465468,mcanfield@icloud.com
+123,samy,abc,2222.00,15-09-2002,asdfghj,01116668560,@a.com
